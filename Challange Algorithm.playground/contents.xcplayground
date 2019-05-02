@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Challenge 01'/>
+        <page name='Challenge 02'/>
+        <page name='Challenge 03'/>
+        <page name='Challenge 04'/>
+        <page name='Sorting Algorithn'/>
+    </pages>
+</playground>
